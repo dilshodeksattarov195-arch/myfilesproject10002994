@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoreync",
+        "uuid": 7365240,
+        "checksum": "axk2v8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
